@@ -1,0 +1,14 @@
+
+.env
+.env.*
+!.env.example
+.dev.vars
+node_modules/
+.wrangler/
+.sites-runtime/
+.venv/
+__pycache__/
+*.db
+*.sqlite*
+*.tsbuildinfo
+.DS_Store
